@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Haskell
 - 📫 How to reach me on mastodon https://ieji.de/@mparus
 - ⚡ Fun fact I am trilingual
+
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=mparusinski)](https://github.com/anuraghazra/github-readme-stats)
