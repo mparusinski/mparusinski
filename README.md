@@ -35,7 +35,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/switching-between-high-low-dpi.html) (7 months ago)
 - [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (8 months ago)
 - [Publishing a pelican website using nix](https://michal.parusinski.me/publish-website-using-nix.html) (9 months ago)
-- [Managing secrets in Nix using Agenix](https://michal.parusinski.me/managin-secrets-in-nix-using-agenix.html) (11 months ago)
+- [Managing secrets in Nix using Agenix](https://michal.parusinski.me/managing-secrets-in-nix-using-agenix.html) (11 months ago)
 
 #### 📓 Gists I wrote
 
