@@ -47,11 +47,11 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### ⭐ Recent Stars
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (today)
 - [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS (2 months ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (2 months ago)
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (6 months ago)
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django (6 months ago)
-- [mparusinski/sound_sifter](https://github.com/mparusinski/sound_sifter) -  (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
