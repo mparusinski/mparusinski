@@ -12,8 +12,8 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (today)
-- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (4 days ago)
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (1 day ago)
+- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (5 days ago)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 week ago)
 - [mparusinski/CV](https://github.com/mparusinski/CV) -  (1 week ago)
 - [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS (2 months ago)
@@ -28,7 +28,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
  #### 🔭 Latest releases I've contributed to
 
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) ([v0.1.0](https://github.com/mparusinski/whiff/releases/tag/v0.1.0), today) - Whiff: a touch implementation in rust
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) ([v0.1.0](https://github.com/mparusinski/whiff/releases/tag/v0.1.0), 1 day ago) - Whiff: a touch implementation in rust
 
 #### 📜 My recent blog posts
 
@@ -48,7 +48,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### ⭐ Recent Stars
 
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (3 days ago)
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (4 days ago)
 - [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS (2 months ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (3 months ago)
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (6 months ago)
