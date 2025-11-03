@@ -59,6 +59,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👯 Check out some of my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [AnasBerradi](https://github.com/AnasBerradi)
 - [mikalv](https://github.com/mikalv)
