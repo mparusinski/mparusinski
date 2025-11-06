@@ -12,9 +12,9 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (2 days ago)
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (3 days ago)
-- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (4 days ago)
+- [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (3 days ago)
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (4 days ago)
+- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (5 days ago)
 - [mparusinski/CV](https://github.com/mparusinski/CV) -  (2 weeks ago)
 - [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS (2 months ago)
 
