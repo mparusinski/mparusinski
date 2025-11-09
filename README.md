@@ -12,8 +12,8 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (5 days ago)
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (6 days ago)
+- [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (6 days ago)
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (1 week ago)
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 week ago)
 - [mparusinski/CV](https://github.com/mparusinski/CV) -  (3 weeks ago)
 - [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS (3 months ago)
@@ -48,7 +48,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### ⭐ Recent Stars
 
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 week ago)
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (2 weeks ago)
 - [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS (3 months ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (3 months ago)
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (6 months ago)
