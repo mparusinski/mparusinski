@@ -12,7 +12,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (1 day ago)
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (2 days ago)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 week ago)
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 week ago)
 - [mparusinski/CV](https://github.com/mparusinski/CV) -  (3 weeks ago)
@@ -52,7 +52,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS (3 months ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (3 months ago)
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (6 months ago)
-- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django (6 months ago)
+- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
