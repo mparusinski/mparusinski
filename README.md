@@ -16,15 +16,14 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 week ago)
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 week ago)
 - [mparusinski/CV](https://github.com/mparusinski/CV) -  (3 weeks ago)
-- [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS (3 months ago)
 
 #### 🌱 My latest projects
 
-- [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS
-- [mparusinski/mail-count-metrics](https://github.com/mparusinski/mail-count-metrics) - rust tool to count number of unread emails
 - [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust
 - [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux
 - [mparusinski/arch-install-helper](https://github.com/mparusinski/arch-install-helper) - Automate some ARCHLINUX install
+- [mparusinski/elo-rust](https://github.com/mparusinski/elo-rust) - ELO Microservice implemented in RUST
+- [mparusinski/dotfiles](https://github.com/mparusinski/dotfiles) - 
 
  #### 🔭 Latest releases I've contributed to
 
@@ -49,10 +48,10 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 #### ⭐ Recent Stars
 
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (2 weeks ago)
-- [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS (3 months ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (3 months ago)
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (7 months ago)
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django (7 months ago)
+- [mparusinski/sound_sifter](https://github.com/mparusinski/sound_sifter) -  (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
