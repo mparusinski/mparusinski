@@ -12,7 +12,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (2 days ago)
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (3 days ago)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 week ago)
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 week ago)
 - [mparusinski/CV](https://github.com/mparusinski/CV) -  (3 weeks ago)
@@ -28,11 +28,11 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
  #### 🔭 Latest releases I've contributed to
 
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) ([v0.1.0](https://github.com/mparusinski/whiff/releases/tag/v0.1.0), 1 week ago) - Whiff: a touch implementation in rust
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) ([v0.1.0](https://github.com/mparusinski/whiff/releases/tag/v0.1.0), 2 weeks ago) - Whiff: a touch implementation in rust
 
 #### 📜 My recent blog posts
 
-- [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/swap-systemd-boot-with-grub.html) (2 months ago)
+- [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/swap-systemd-boot-with-grub.html) (3 months ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/switching-between-high-low-dpi.html) (8 months ago)
 - [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (9 months ago)
 - [Publishing a pelican website using nix](https://michal.parusinski.me/publish-website-using-nix.html) (9 months ago)
@@ -44,14 +44,14 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 #### 🔨 My recent Pull Requests
 
 - [Enable use of HiDPI pixmaps by QT](https://github.com/keepassxreboot/keepassxc/pull/2702) on [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) (6 years ago)
-- [Aligning vertically the loading screen (Generating page) to improve eye candy](https://github.com/hoelzro/harbour-sudoku/pull/22) on [hoelzro/harbour-sudoku](https://github.com/hoelzro/harbour-sudoku) (10 years ago)
+- [Aligning vertically the loading screen (Generating page) to improve eye candy](https://github.com/hoelzro/harbour-sudoku/pull/22) on [hoelzro/harbour-sudoku](https://github.com/hoelzro/harbour-sudoku) (11 years ago)
 
 #### ⭐ Recent Stars
 
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (2 weeks ago)
 - [mparusinski/dracula-nix](https://github.com/mparusinski/dracula-nix) - Dracula theme for NixOS (3 months ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (3 months ago)
-- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (6 months ago)
+- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (7 months ago)
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
