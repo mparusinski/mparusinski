@@ -12,7 +12,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (1 day ago)
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (today)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 week ago)
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 week ago)
 - [mparusinski/CV](https://github.com/mparusinski/CV) -  (4 weeks ago)
