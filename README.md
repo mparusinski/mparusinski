@@ -12,9 +12,9 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (today)
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (1 day ago)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 week ago)
-- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 week ago)
+- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (2 weeks ago)
 - [mparusinski/CV](https://github.com/mparusinski/CV) -  (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/swap-systemd-boot-with-grub.html) (3 months ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/switching-between-high-low-dpi.html) (8 months ago)
 - [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (9 months ago)
-- [Publishing a pelican website using nix](https://michal.parusinski.me/publish-website-using-nix.html) (9 months ago)
+- [Publishing a pelican website using nix](https://michal.parusinski.me/publish-website-using-nix.html) (10 months ago)
 - [Managing secrets in Nix using Agenix](https://michal.parusinski.me/managing-secrets-in-nix-using-agenix.html) (1 year ago)
 
 #### 📓 Gists I wrote
@@ -47,7 +47,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### ⭐ Recent Stars
 
-- [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (1 day ago)
+- [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (2 days ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (2 weeks ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (3 months ago)
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (7 months ago)
