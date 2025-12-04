@@ -47,7 +47,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### ⭐ Recent Stars
 
-- [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (2 weeks ago)
+- [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (3 weeks ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 month ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (4 months ago)
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (7 months ago)
