@@ -12,7 +12,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 day ago)
+- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (2 days ago)
 - [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (3 weeks ago)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 month ago)
 - [mparusinski/CV](https://github.com/mparusinski/CV) -  (1 month ago)
@@ -33,7 +33,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/swap-systemd-boot-with-grub.html) (3 months ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/switching-between-high-low-dpi.html) (9 months ago)
-- [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (9 months ago)
+- [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (10 months ago)
 - [Publishing a pelican website using nix](https://michal.parusinski.me/publish-website-using-nix.html) (10 months ago)
 - [Managing secrets in Nix using Agenix](https://michal.parusinski.me/managing-secrets-in-nix-using-agenix.html) (1 year ago)
 
