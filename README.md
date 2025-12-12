@@ -12,8 +12,8 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (today)
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (3 weeks ago)
+- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 day ago)
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (4 weeks ago)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 month ago)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 📜 My recent blog posts
 
-- [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/swap-systemd-boot-with-grub.html) (3 months ago)
+- [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/swap-systemd-boot-with-grub.html) (4 months ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/switching-between-high-low-dpi.html) (9 months ago)
 - [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (10 months ago)
 - [Publishing a pelican website using nix](https://michal.parusinski.me/publish-website-using-nix.html) (10 months ago)
@@ -49,7 +49,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (4 weeks ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 month ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (4 months ago)
-- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (7 months ago)
+- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (8 months ago)
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
