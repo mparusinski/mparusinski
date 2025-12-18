@@ -47,11 +47,11 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### ⭐ Recent Stars
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (today)
 - [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (1 month ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 month ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (4 months ago)
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (8 months ago)
-- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
