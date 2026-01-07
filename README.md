@@ -33,7 +33,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/swap-systemd-boot-with-grub.html) (4 months ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/switching-between-high-low-dpi.html) (10 months ago)
-- [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (10 months ago)
+- [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (11 months ago)
 - [Publishing a pelican website using nix](https://michal.parusinski.me/publish-website-using-nix.html) (11 months ago)
 - [Managing secrets in Nix using Agenix](https://michal.parusinski.me/managing-secrets-in-nix-using-agenix.html) (1 year ago)
 
@@ -42,7 +42,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 🔨 My recent Pull Requests
 
-- [Enable use of HiDPI pixmaps by QT](https://github.com/keepassxreboot/keepassxc/pull/2702) on [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) (6 years ago)
+- [Enable use of HiDPI pixmaps by QT](https://github.com/keepassxreboot/keepassxc/pull/2702) on [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) (7 years ago)
 - [Aligning vertically the loading screen (Generating page) to improve eye candy](https://github.com/hoelzro/harbour-sudoku/pull/22) on [hoelzro/harbour-sudoku](https://github.com/hoelzro/harbour-sudoku) (11 years ago)
 
 #### ⭐ Recent Stars
