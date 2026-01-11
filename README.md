@@ -12,7 +12,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux (4 weeks ago)
+- [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux (1 month ago)
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 month ago)
 - [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (1 month ago)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (2 months ago)
@@ -31,7 +31,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 📜 My recent blog posts
 
-- [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/swap-systemd-boot-with-grub.html) (4 months ago)
+- [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/swap-systemd-boot-with-grub.html) (5 months ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/switching-between-high-low-dpi.html) (10 months ago)
 - [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (11 months ago)
 - [Publishing a pelican website using nix](https://michal.parusinski.me/publish-website-using-nix.html) (11 months ago)
