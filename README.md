@@ -14,7 +14,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 - [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux (1 month ago)
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 month ago)
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (1 month ago)
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (2 months ago)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (2 months ago)
 
 #### 🌱 My latest projects
