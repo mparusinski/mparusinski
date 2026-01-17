@@ -47,8 +47,8 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### ⭐ Recent Stars
 
-- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15&#43; exchanges, with a simple interface. (4 weeks ago)
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (4 weeks ago)
+- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15&#43; exchanges, with a simple interface. (1 month ago)
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (1 month ago)
 - [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (2 months ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (2 months ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (5 months ago)
