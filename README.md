@@ -51,7 +51,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (1 month ago)
 - [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (2 months ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (3 months ago)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (5 months ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
