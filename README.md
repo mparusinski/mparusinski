@@ -27,7 +27,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
  #### 🔭 Latest releases I've contributed to
 
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) ([v0.1.0](https://github.com/mparusinski/whiff/releases/tag/v0.1.0), 3 months ago) - Whiff: a touch implementation in rust
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) ([v0.1.0](https://github.com/mparusinski/whiff/releases/tag/v0.1.0), 4 months ago) - Whiff: a touch implementation in rust
 
 #### 📜 My recent blog posts
 
