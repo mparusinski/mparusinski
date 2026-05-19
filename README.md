@@ -23,7 +23,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux
 - [mparusinski/arch-install-helper](https://github.com/mparusinski/arch-install-helper) - Automate some ARCHLINUX install
 - [mparusinski/elo-rust](https://github.com/mparusinski/elo-rust) - ELO Microservice implemented in RUST
-- [mparusinski/dotfiles](https://github.com/mparusinski/dotfiles) - 
+- [mparusinski/hardware-controls](https://github.com/mparusinski/hardware-controls) - Hardware controls in XMonad like environment (e.g. backlight control)
 
  #### 🔭 Latest releases I've contributed to
 
