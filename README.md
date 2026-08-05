@@ -33,7 +33,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/swap-systemd-boot-with-grub.html) (11 months ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/switching-between-high-low-dpi.html) (1 year ago)
-- [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (1 year ago)
+- [Managing databases users using nix](https://michal.parusinski.me/manage-db-users-with-nix.html) (2 years ago)
 - [Publishing a pelican website using nix](https://michal.parusinski.me/publish-website-using-nix.html) (2 years ago)
 - [Managing secrets in Nix using Agenix](https://michal.parusinski.me/managing-secrets-in-nix-using-agenix.html) (2 years ago)
 
