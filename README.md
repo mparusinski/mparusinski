@@ -50,7 +50,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer (2 weeks ago)
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15&#43; exchanges, with a simple interface. (7 months ago)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (7 months ago)
-- [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (8 months ago)
+- [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (9 months ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (9 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
