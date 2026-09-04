@@ -26,7 +26,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://michal.parusinski.me/feeds/all.rss.xml" 5}}
+{{range rss "https://michal.parusinski.me/feed/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
