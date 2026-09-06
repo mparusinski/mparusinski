@@ -31,7 +31,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 📜 My recent blog posts
 
-- [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (2 days ago)
+- [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (3 days ago)
 - [Managing secrets in Nix using Agenix](https://michal.parusinski.me/2025/10/25/managing-secrets-in-nix-using-agenix/) (10 months ago)
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/2025/08/14/swap-systemd-boot-with-grub/) (1 year ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/2025/03/05/switching-between-high-low-dpi/) (2 years ago)
