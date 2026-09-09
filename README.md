@@ -31,7 +31,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 📜 My recent blog posts
 
-- [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (5 days ago)
+- [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (6 days ago)
 - [Managing secrets in Nix using Agenix](https://michal.parusinski.me/2025/10/25/managing-secrets-in-nix-using-agenix/) (10 months ago)
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/2025/08/14/swap-systemd-boot-with-grub/) (1 year ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/2025/03/05/switching-between-high-low-dpi/) (2 years ago)
@@ -50,7 +50,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer (1 month ago)
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15&#43; exchanges, with a simple interface. (8 months ago)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (8 months ago)
-- [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (9 months ago)
+- [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (10 months ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (10 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
