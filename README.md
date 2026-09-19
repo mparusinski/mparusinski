@@ -32,7 +32,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 #### 📜 My recent blog posts
 
 - [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (2 weeks ago)
-- [Managing secrets in Nix using Agenix](https://michal.parusinski.me/2025/10/25/managing-secrets-in-nix-using-agenix/) (10 months ago)
+- [Managing secrets in Nix using Agenix](https://michal.parusinski.me/2025/10/25/managing-secrets-in-nix-using-agenix/) (11 months ago)
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/2025/08/14/swap-systemd-boot-with-grub/) (1 year ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/2025/03/05/switching-between-high-low-dpi/) (2 years ago)
 - [Managing databases users using nix](https://michal.parusinski.me/2025/02/11/manage-db-users-with-nix/) (2 years ago)
@@ -47,7 +47,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### ⭐ Recent Stars
 
-- [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer (1 month ago)
+- [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer (2 months ago)
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15&#43; exchanges, with a simple interface. (9 months ago)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (9 months ago)
 - [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (10 months ago)
