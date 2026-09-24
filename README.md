@@ -27,11 +27,11 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
  #### 🔭 Latest releases I've contributed to
 
-- [mparusinski/whiff](https://github.com/mparusinski/whiff) ([v0.1.0](https://github.com/mparusinski/whiff/releases/tag/v0.1.0), 10 months ago) - Whiff: a touch implementation in rust
+- [mparusinski/whiff](https://github.com/mparusinski/whiff) ([v0.1.0](https://github.com/mparusinski/whiff/releases/tag/v0.1.0), 11 months ago) - Whiff: a touch implementation in rust
 
 #### 📜 My recent blog posts
 
-- [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (2 weeks ago)
+- [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (3 weeks ago)
 - [Managing secrets in Nix using Agenix](https://michal.parusinski.me/2025/10/25/managing-secrets-in-nix-using-agenix/) (11 months ago)
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/2025/08/14/swap-systemd-boot-with-grub/) (1 year ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/2025/03/05/switching-between-high-low-dpi/) (2 years ago)
