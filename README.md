@@ -31,11 +31,11 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 📜 My recent blog posts
 
+- [A Kennel in Blender](https://michal.parusinski.me/2026/10/02/a-kennel-in-blender/) (today)
 - [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (4 weeks ago)
 - [Managing secrets in Nix using Agenix](https://michal.parusinski.me/2025/10/25/managing-secrets-in-nix-using-agenix/) (11 months ago)
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/2025/08/14/swap-systemd-boot-with-grub/) (1 year ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/2025/03/05/switching-between-high-low-dpi/) (2 years ago)
-- [Managing databases users using nix](https://michal.parusinski.me/2025/02/11/manage-db-users-with-nix/) (2 years ago)
 
 #### 📓 Gists I wrote
 
