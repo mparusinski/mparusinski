@@ -13,7 +13,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 #### 👷 Check out what I'm currently working on
 
 - [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (7 months ago)
-- [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux (9 months ago)
+- [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux (10 months ago)
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (10 months ago)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (11 months ago)
 
@@ -31,7 +31,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 📜 My recent blog posts
 
-- [A Kennel in Blender](https://michal.parusinski.me/2026/10/02/a-kennel-in-blender/) (5 days ago)
+- [A Kennel in Blender](https://michal.parusinski.me/2026/10/02/a-kennel-in-blender/) (6 days ago)
 - [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (1 month ago)
 - [Managing secrets in Nix using Agenix](https://michal.parusinski.me/2025/10/25/managing-secrets-in-nix-using-agenix/) (11 months ago)
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/2025/08/14/swap-systemd-boot-with-grub/) (1 year ago)
