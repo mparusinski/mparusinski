@@ -12,8 +12,8 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### 👷 Check out what I'm currently working on
 
-- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (today)
-- [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 day ago)
+- [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 day ago)
+- [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (2 days ago)
 - [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (8 months ago)
 - [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux (10 months ago)
 
@@ -51,7 +51,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15&#43; exchanges, with a simple interface. (10 months ago)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (10 months ago)
 - [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (11 months ago)
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (11 months ago)
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
