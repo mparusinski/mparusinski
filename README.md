@@ -13,7 +13,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 #### 👷 Check out what I'm currently working on
 
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 week ago)
-- [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 week ago)
+- [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (2 weeks ago)
 - [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (8 months ago)
 - [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux (10 months ago)
 
@@ -32,7 +32,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 #### 📜 My recent blog posts
 
 - [A Kennel in Blender](https://michal.parusinski.me/2026/10/02/a-kennel-in-blender/) (1 month ago)
-- [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (1 month ago)
+- [Choosing WordPress over Hugo](https://michal.parusinski.me/2026/09/03/choosing-wordpress-over-hugo/) (2 months ago)
 - [Managing secrets in Nix using Agenix](https://michal.parusinski.me/2025/10/25/managing-secrets-in-nix-using-agenix/) (1 year ago)
 - [Switching systemd-boot to GRUB on Archlinux](https://michal.parusinski.me/2025/08/14/swap-systemd-boot-with-grub/) (1 year ago)
 - [Switching between High DPI and Low DPI in XMonad](https://michal.parusinski.me/2025/03/05/switching-between-high-low-dpi/) (2 years ago)
