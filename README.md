@@ -15,7 +15,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (2 weeks ago)
 - [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (2 weeks ago)
 - [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (8 months ago)
-- [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux (10 months ago)
+- [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -43,7 +43,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 #### 🔨 My recent Pull Requests
 
 - [Enable use of HiDPI pixmaps by QT](https://github.com/keepassxreboot/keepassxc/pull/2702) on [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) (7 years ago)
-- [Aligning vertically the loading screen (Generating page) to improve eye candy](https://github.com/hoelzro/harbour-sudoku/pull/22) on [hoelzro/harbour-sudoku](https://github.com/hoelzro/harbour-sudoku) (11 years ago)
+- [Aligning vertically the loading screen (Generating page) to improve eye candy](https://github.com/hoelzro/harbour-sudoku/pull/22) on [hoelzro/harbour-sudoku](https://github.com/hoelzro/harbour-sudoku) (12 years ago)
 
 #### ⭐ Recent Stars
 
