@@ -45,11 +45,6 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
@@ -61,6 +56,8 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Fediverse: https://ieji.de/@mparus
+- Fediverse: https://mastodon.art/@mparus
+- Instagram: https://www.instagram.com/michalparusinski/
+- LinkedIn: https://www.linkedin.com/in/michalparusinski/
 - Blog: https://michal.parusinski.me
 
