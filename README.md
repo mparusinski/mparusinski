@@ -53,9 +53,6 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 - [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (1 year ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 year ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
-
-
 #### 👯 Check out some of my recent followers
 
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
@@ -69,6 +66,8 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Fediverse: https://ieji.de/@mparus
+- Fediverse: https://mastodon.art/@mparus
+- Instagram: https://www.instagram.com/michalparusinski/
+- LinkedIn: https://www.linkedin.com/in/michalparusinski/
 - Blog: https://michal.parusinski.me
 
