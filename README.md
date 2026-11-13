@@ -2,7 +2,7 @@
 
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=mparusinski)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm Michal, a senior backend software developer with a fondness for Open Source, Linux systems
+I'm [Michal Parusinski](https://michal.parusinski.me/about), a senior backend software developer with a fondness for Open Source, Linux systems
 and system level, functional or general purpose programming languages (e.g. C++, Rust, Python or Haskell).
 Recently I have taken a fondness in the declarative and reproducible linux based operating system NixOS.
 
