@@ -13,7 +13,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 #### 👷 Check out what I'm currently working on
 
 - [mparusinski/nix-config](https://github.com/mparusinski/nix-config) -  (1 week ago)
-- [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (4 weeks ago)
+- [mparusinski/mparusinski.github.io](https://github.com/mparusinski/mparusinski.github.io) -  (1 month ago)
 - [mparusinski/whiff](https://github.com/mparusinski/whiff) - Whiff: a touch implementation in rust (9 months ago)
 - [mparusinski/arch-update-notifier](https://github.com/mparusinski/arch-update-notifier) - Notification via email for updates on Archlinux (11 months ago)
 
@@ -47,7 +47,7 @@ Recently I have taken a fondness in the declarative and reproducible linux based
 
 #### ⭐ Recent Stars
 
-- [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer (3 months ago)
+- [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer (4 months ago)
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15&#43; exchanges, with a simple interface. (11 months ago)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (11 months ago)
 - [sonowz/vscode-remote-wsl-nixos](https://github.com/sonowz/vscode-remote-wsl-nixos) - Develop using VSCode Remote-WSL environment with NixOS (1 year ago)
